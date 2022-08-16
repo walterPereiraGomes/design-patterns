@@ -1,1 +1,1 @@
-console.log('oi')
+console.log(5);
